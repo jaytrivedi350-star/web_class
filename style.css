@@ -1,0 +1,28 @@
+h1{
+   font-size: 40px;
+   font-family: jokerman;
+   color: red;
+   }
+   
+   p{
+	   background-color:yellow;
+	   text-shadow:20px 20px 20px;
+	   font-family:bold;
+	   color:blue;
+	     
+		 .box-detailed {
+  /* 1. Width (Thickness): e.g., px, rem, thin, medium, thick */
+  border-width: 5px;
+
+  /* 2. Style (Required): solid, dashed, dotted, double, groove, ridge, inset, outset */
+  border-style: solid;
+
+  /* 3. Color: Name, HEX, RGB, or HSL */
+  border-color: #ff4500;
+
+  /* Optional: Round the corners */
+  border-radius: 8px;
+}
+
+		 
+    }   
